@@ -25,6 +25,7 @@ osprey-mock-service -f api.raml -p 8000
 
 * `-f` Path to the root RAML definition (E.g. `/path/to/api.raml`)
 * `-p` Port number to bind the server locally
+* `--cors` Enable CORS with the API
 
 ### Locally (JavaScript)
 
